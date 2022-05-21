@@ -14,6 +14,9 @@
 #### Faishal Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faishal-org)
 
+#### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faishal-org)]
+
 
 <!--
 **faishal-org/faishal-org** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
